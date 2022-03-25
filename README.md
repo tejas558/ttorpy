@@ -1,4 +1,4 @@
-<center> # Tejas Mahajan </center>
+<center> <h1> # Tejas Mahajan </h1> </center>
 
 ### Hi, I am a software engineering student
 
