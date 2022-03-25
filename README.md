@@ -1,4 +1,4 @@
-<center> <h1> # Tejas Mahajan </h1> </center>
+<h1 align="center"> # Tejas Mahajan </h1>
 
 ### Hi, I am a software engineering student
 
