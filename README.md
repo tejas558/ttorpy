@@ -6,4 +6,3 @@
 
 - Speaks 4 languages: 🇺🇸🇰🇷🇮🇳🇯🇵
 - Hobbies : Watching Netflix Rom-Coms | Playing Video Games | Cat Videos | Politics 
-일본에 살고있는 인도에서 왔는 한국인
