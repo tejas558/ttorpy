@@ -4,5 +4,5 @@
 
 <p>About me:</p>
 
-- Speaks 4 languages: 🇺🇸🇰🇷🇮🇳🇯🇵
+- Speaks 3 languages: 🇺🇸🇰🇷🇮🇳
 - Hobbies : Watching Netflix Rom-Coms | Playing Video Games | Cat Videos | Politics 
